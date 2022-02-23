@@ -1,1 +1,1 @@
-# starway
+# starway animation
